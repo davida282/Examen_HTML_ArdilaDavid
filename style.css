@@ -159,8 +159,27 @@
     margin-left: 25%;
 }
 .hr9 {
-
+    height: auto; 
+    width: 50%;
 }
 .hr10 {
-
+    height: auto; 
+    width: 50%;
+}
+.hr11 {
+    height: auto; 
+    width: 50%;
+}
+.parrafo10 {
+    font-size: 21px;
+    text-align: center;
+    color:rgb(58, 190, 230);
+    margin-left: -75%;
+    margin-top: -7%;
+}
+.parrafo11 {
+    font-size: 21px;
+    margin-left: 55px;
+    margin-top: -2.5%;
+    line-height: 1.3;
 }
