@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(58, 190, 230);
+  }
+  
+  .contenedor {
+    background-color: white;
+    width: 85%;
+    height: 400vh;
+    margin-left: 8%;
+    margin-top: 4%;
+    border-radius: 6%;
+  }
+
+  #Andres {
+    display: grid;
+    padding: 3%;
+  }
+  .parrafo1 {
+    text-align: center;
+    font-size: 21px;
+  }
+  .logoDian {
+    display: grid;
+    margin-left: 39.5%;
+    height: 80%;
+  }
+  .parrafo2 {
+    text-align: center;
+    font-size: 21px;
+    
+  }
+  .nombreandres{
+    margin-left: 10%;
+    font-size: 21px;
+    margin-bottom: 10px;
+  }
+  .fotoandres{
+    height: 80%;
+    margin-left: 1.8%;
+    
+  }
+  .parrafo3{
+   
+    margin-top: -37.5%;
+    font-size: 21px;
+    line-height: 2;
+    margin-left: 25%;
+    
+  }
+  
+.hr1 {
+    height: auto; 
+    width: 50%;
+    
+}
+.hr2 {
+    height: auto; 
+    width: 50%;
+}
+.hr3 {
+    height: auto; 
+    width: 50%;
+}
+.hr4 {
+    height: auto; 
+    width: 50%;
+}
+.parrafo4 {
+    font-size: 21px;
+    text-align: center;
+    color:rgb(58, 190, 230);
+    margin-left: -75%;
+    margin-top: -7%;
+    
+}
+.parrafo5 {
+    font-size: 21px;
+    margin-left: 55px;
+    margin-top: -2.5%;
+    line-height: 1.3;
+}
