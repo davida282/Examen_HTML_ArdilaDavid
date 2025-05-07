@@ -183,3 +183,329 @@
     margin-top: -2.5%;
     line-height: 1.3;
 }
+#final {
+    display: grid;
+    padding: 3%;
+}
+.parrafo12 {
+    font-size: 21px;
+    text-align: center;
+}
+.parrafo13 {
+    font-size: 21px;
+    text-align: center;
+}
+.parrafo14 {
+    font-size: 21px;
+    text-align: center;
+    
+}
+.parrafo15 {
+    font-size: 21px;
+    text-align: center;
+}
+.parrafo16 {
+    font-size: 21px;
+    text-align: center;
+}
+.parrafo17 {
+    font-size: 21px;
+    text-align: center;
+}
+.parrafo18 {
+    font-size: 21px;
+    text-align: center;
+}
+.parrafo19 {
+    font-size: 21px;
+    text-align: center;
+}
+.logoDian2 {
+    height: 20%;
+}
+.logoDian3 {
+    height: 20%;
+}
+.area {
+    grid-template-columns: repeat(3, 10%);
+    grid-template-rows: repeat(2, 10%);
+    grid-template-areas: 's1 s2 s3'
+                         's4 s5 s3';
+}
+.parrafo20 {
+    grid-area: s1;
+    font-size: 21px;
+    text-align: center;
+}
+.parrafo21 {
+    grid-area: s2;
+    font-size: 21px;
+    text-align: center;
+}
+.parrafo22 {
+    grid-area: s3;
+    font-size: 21px;
+    text-align: center;
+}
+.parrafo23 {
+    grid-area: s4;
+    font-size: 21px;
+    text-align: center;
+}
+.parrafo24 {
+    grid-area: s5;
+    font-size: 21px;
+    text-align: center;
+}
+@media (max-width: 768px) {
+    .contenedor {
+        background-color: white;
+        width: 85%;
+        height: 455vh;
+        margin-left: 8%;
+        margin-top: 4%;
+        border-radius: 6%;
+      }
+      #Andres {
+        display: grid;
+        padding: 3%;
+      }
+      .parrafo1 {
+        text-align: center;
+        font-size: 21px;
+      }
+      .logoDian {
+        display: grid;
+        margin-left: 25.5%;
+        height: 80%;
+      }
+      .parrafo2 {
+        text-align: center;
+        font-size: 21px;
+        
+        
+      }
+      .nombreandres{
+        margin-left: 10%;
+        font-size: 21px;
+        margin-bottom: 10px;
+        margin-top: 10%;
+      }
+      .fotoandres{
+        height: 80%;
+        margin-left: 1.8%;
+        
+      }
+      .parrafo3{
+       
+        margin-top: -10%;
+        font-size: 21px;
+        line-height: 2;
+        margin-left: 10%;
+        
+      }
+      
+    .hr1 {
+        height: auto; 
+        width: 50%;
+        
+    }
+    .hr2 {
+        height: auto; 
+        width: 50%;
+    }
+    .hr3 {
+        height: auto; 
+        width: 50%;
+    }
+    .hr4 {
+        height: auto; 
+        width: 50%;
+    }
+    .parrafo4 {
+        font-size: 21px;
+        text-align: center;
+        color:rgb(58, 190, 230);
+        margin-left: -55%;
+        margin-top: -97%;
+        
+    }
+    .parrafo5 {
+        font-size: 21px;
+        margin-left: 55px;
+        margin-top: 1.5%;
+        line-height: 1.3;
+    }
+    
+    #Camila {
+        display: grid;
+        padding: 3%;
+        justify-items: end;
+    }
+    .nombrecamila {
+        margin-right: 10%;
+        font-size: 21px;
+        margin-bottom: 10px;
+    }
+    .fotocamila {
+        height: 80%;
+        margin-right: 1.8%;
+    }
+    .parrafo6 {
+        margin-top: -90%;
+        font-size: 21px;
+        line-height: 2;
+        margin-right: 43%;
+        padding: 4%;
+    }
+    .hr5 {
+        height: auto; 
+        width: 90%;
+        
+    }
+    .hr6 {
+        height: auto; 
+        width: 90%;
+    }
+    .hr7 {
+        height: auto; 
+        width: 90%;
+    }
+    .hr8 {
+        height: auto; 
+        width: 90%;
+    }
+    .parrafo7 {
+        font-size: 21px;
+        text-align: center;
+        color:rgb(58, 190, 230);
+        margin-right: -2%;
+        margin-top: -72%;
+    }
+    .parrafo8 {
+        font-size: 21px;
+        margin-top: -5%;
+        line-height: 1.3;
+        padding: 4%;
+    }
+    #Carolina {
+        display: grid;
+        padding: 3%;
+    
+    }
+    .nombrecarolina {
+        margin-left: 10%;
+        font-size: 21px;
+        margin-bottom: 10px;
+    }
+    .fotocarolina {
+        height: 80%;
+        margin-left: 1.8%;
+    }
+    .parrafo9 {
+        margin-top: -15.5%;
+        font-size: 21px;
+        line-height: 2;
+        margin-left: 25%;
+    }
+    .hr9 {
+        height: auto; 
+        width: 50%;
+    }
+    .hr10 {
+        height: auto; 
+        width: 50%;
+    }
+    .hr11 {
+        height: auto; 
+        width: 50%;
+    }
+    .parrafo10 {
+        font-size: 21px;
+        text-align: center;
+        color:rgb(58, 190, 230);
+        margin-left: 50%;
+        margin-top: -105%;
+    }
+    .parrafo11 {
+        font-size: 21px;
+        margin-left: 55px;
+        margin-top: 1.5%;
+        line-height: 1.3;
+    }
+    #final {
+        display: grid;
+        padding: 3%;
+    }
+    .parrafo12 {
+        font-size: 21px;
+        text-align: center;
+    }
+    .parrafo13 {
+        font-size: 21px;
+        text-align: center;
+    }
+    .parrafo14 {
+        font-size: 21px;
+        text-align: center;
+        
+    }
+    .parrafo15 {
+        font-size: 21px;
+        text-align: center;
+    }
+    .parrafo16 {
+        font-size: 21px;
+        text-align: center;
+    }
+    .parrafo17 {
+        font-size: 21px;
+        text-align: center;
+    }
+    .parrafo18 {
+        font-size: 21px;
+        text-align: center;
+    }
+    .parrafo19 {
+        font-size: 21px;
+        text-align: center;
+    }
+    .logoDian2 {
+        height: 20%;
+    }
+    .logoDian3 {
+        height: 20%;
+    }
+    .area {
+        grid-template-columns: repeat(3, 10%);
+        grid-template-rows: repeat(2, 10%);
+        grid-template-areas: 's1 s2 s3'
+                             's4 s5 s3';
+    }
+    .parrafo20 {
+        grid-area: s1;
+        font-size: 21px;
+        text-align: center;
+    }
+    .parrafo21 {
+        grid-area: s2;
+        font-size: 21px;
+        text-align: center;
+    }
+    .parrafo22 {
+        grid-area: s3;
+        font-size: 21px;
+        text-align: center;
+    }
+    .parrafo23 {
+        grid-area: s4;
+        font-size: 21px;
+        text-align: center;
+    }
+    .parrafo24 {
+        grid-area: s5;
+        font-size: 21px;
+        text-align: center;
+    }
+    
+}
